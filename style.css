@@ -1,0 +1,59 @@
+.nav-item{
+    padding-left: 15px;
+}
+.nav-item a{
+    font-weight: 700;
+}
+.navbar{
+    padding-top: 50px;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.carousel-indicators li{
+    background-color: rgb(167, 173, 173);
+    width: 6px;
+    height: 5px;
+    border-radius: 70%;
+}
+.carousel-indicators li.active{
+    width: 22px;
+    height: 5px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 0), rgba(238, 238, 36, 0.808));
+    border-radius: 60px;
+}
+.btn-buy-now{
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.smartphone-catagory h3{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.smartphone-catagory a{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: coral;
+}
+h2{
+    font-size: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(197, 196, 196);
+    padding-bottom: 30px;
+}
+.card img {
+    width: 70%;
+    padding-top: 30px;
+    margin: auto;
+
+}
+.laptop-catagories{
+    margin: auto;
+}
